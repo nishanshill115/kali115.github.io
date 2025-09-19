@@ -1,0 +1,10 @@
+{
+  "name": "DemoPlugin",
+  "type": "app",
+  "id": "good-plugin",
+  "enabled": true,
+  "module": "/modules/inert-exploit.js",
+  "baseUrl": "public/plugins/good-plugin",
+  "info": { "author": { "name": "Demo" } }
+}
+
